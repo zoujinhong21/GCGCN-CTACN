@@ -1,1 +1,2 @@
 # GCGCN-CTACN
+Assuming that the dataset paths are correct, the code we uploaded should theoretically allow you to run "main_CMAPSS.py" and "main_N_CMAPSS.py" with a single click. Due to the file size limit on GitHub, we only uploaded the CMAPSS dataset that has been standardized and labeled, and did not upload the N-CMAPSS dataset. If you need to view the running results on the N-CMAPSS dataset, you need to download the original data from the official website and place it in the directory "dataset/N-CMAPSS" that we have uploaded.
